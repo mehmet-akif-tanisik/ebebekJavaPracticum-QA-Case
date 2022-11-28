@@ -16,20 +16,14 @@ This case contains selenium test case. Aim of this exercise is to learn and prac
 
 <hr>
 
-## Project Solutions
-
-### Question 1
-
-
-
-### Question 2
+## Project Solution
 
 For this question Selenium used to achieve solution. This was the first time i used Selenium. However, it was fun to do test automation for ui.
 
-You can find code here --> <a href="https://github.com/mehmet-akif-tanisik/ebebekJavaPracticum-QA-Homework/blob/main/src/test/java/seleniumuitest/SeleniumTest.java" target="_blank">Question 2 Code</a>
+You can find code here --> <a href="https://github.com/mehmet-akif-tanisik/ebebekJavaPracticum-QA-Case/blob/main/src/test/java/testscenarious/CartActions.java" target="_blank">Click to see code.</a>
 
-#### Question 2 - Output
-<img src="images/outputSS/question2-output.png" alt="question 2" />
+#### CASE Output
+<img src="src/images/mama.png" alt="question 2" />
 
 <hr>
 
@@ -41,9 +35,9 @@ You can find code here --> <a href="https://github.com/mehmet-akif-tanisik/ebebe
 ### Technologies
 
 
-<a href="https://www.java.com/" target="_blank"><img src="images\java.svg" alt="Java" height="80" /></a>
-<a href="https://www.selenium.dev" target="_blank"><img src="images\selenium-logo.svg" alt="Java" height="80" /></a>
-<a href="https://rest-assured.io" target="_blank"><img src="images\assured.png" alt="Java" height="80" /></a>
+<a href="https://www.java.com/" target="_blank"><img src="src\images\java.svg" alt="Java" height="80" /></a>
+<a href="https://www.selenium.dev" target="_blank"><img src="src\images\selenium-logo.svg" alt="Java" height="80" /></a>
+
 
 
 <!-- LICENSE -->
@@ -80,7 +74,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## ebebek Java & QA & SAP Spartacus Practicum
 <div align="center">
   <a href="https://www.e-bebek.com">
-    <img src="images\ebebek-logo.png" alt="Logo" width="200" height="50">
+    <img src="src\images\ebebek-logo.png" alt="Logo" width="200" height="50">
   </a>
 
 <h3 align="center">Company: ebebek</h3>
@@ -89,7 +83,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <br><br>
 <div align="center">
   <a href="https://www.patika.dev/tr">
-    <img src="images\patika-logo.svg" alt="Logo" width="240" height="50">
+    <img src="src\images\patika-logo.svg" alt="Logo" width="240" height="50">
   </a>
 <h3 align="center">Organizer: Patika.dev</h3>
 </div>
